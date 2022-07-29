@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, My name is Alphonsus Oshiole 👋
+ A Student of ALX Holberton Software Engineering programme in preparation for  a global career as a Full-Stack Developer
 
 <!--
 **Alphydoo/Alphydoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-HOW TO REACH ME
+### HOW TO REACH ME
+
 * [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aaoshioledwg)
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alphonsus-oshiole-77455317/)

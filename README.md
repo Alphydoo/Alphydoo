@@ -27,13 +27,6 @@
 * Good communication skills.
 * Open source contribution
 
-#### For a project, feel free to contact me on
-
-<p align="left">
-<a href="https://twitter.com/iamdaveeazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iamniiengmann" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david-atat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-atat/%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3btimz4%2b7srnsgxf6kqbm%2big%3d%3d" height="30" width="40" /></a>
-<a href="https://instagram.com/daveeazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daveeazi" height="30" width="40" /></a>
-</p>
 
 ### HOW TO REACH ME
 

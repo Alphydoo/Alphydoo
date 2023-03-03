@@ -1,4 +1,4 @@
-### Hi there, My name is Alphonsus Oshiole 👋
+### Hi, My name is Alphonsus Oshiole 👋
  A Student of ALX Holberton Software Engineering programme in preparation for  a global career as a Full-Stack Developer
 
 <!--
